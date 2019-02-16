@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# JetBrains Rider Unity Editor
+Assets/Plugins/Editor/
+Assets/Plugins/Editor.meta
+.idea
