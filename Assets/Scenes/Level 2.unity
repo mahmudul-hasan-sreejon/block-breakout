@@ -479,6 +479,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.83137256
       objectReference: {fileID: 0}
+    - target: {fileID: 8418180520184262933, guid: 77dbf558936f0dd42a50b4ca47336e9e,
+        type: 3}
+      propertyPath: breakSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 263940a20e8b5c74ba53273434c6f0d8, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77dbf558936f0dd42a50b4ca47336e9e, type: 3}
 --- !u!4 &920181831 stripped
