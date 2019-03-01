@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8418180520184262936}
   - component: {fileID: 8418180520184262934}
   - component: {fileID: 8418180520184262933}
+  - component: {fileID: 9013917061557399282}
   m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
@@ -120,3 +121,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 263940a20e8b5c74ba53273434c6f0d8, type: 3}
+--- !u!114 &9013917061557399282
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8418180520184262937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b27b1005bffb484e9e5644f8ee78758, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
