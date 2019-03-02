@@ -10,7 +10,6 @@ public class Block : MonoBehaviour
     // Cached reference
     Level level;
 
-    
     private void Start()
     {
         level = FindObjectOfType<Level>();
@@ -19,6 +18,8 @@ public class Block : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
+        FindObjectOfType<GameStatus>().AddToScore();
+        
         DestroyBlock();
     }
 
