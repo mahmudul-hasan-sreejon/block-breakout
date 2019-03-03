@@ -18,7 +18,7 @@ public class Block : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        FindObjectOfType<GameStatus>().AddToScore();
+        FindObjectOfType<GameSession>().AddToScore();
         
         DestroyBlock();
     }
