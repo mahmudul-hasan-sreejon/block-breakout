@@ -6,7 +6,7 @@ public class Ball : MonoBehaviour {
     [SerializeField] Paddle paddle;
     [SerializeField] float xPush = 2f;
     [SerializeField] float yPush = 15f;
-    [SerializeField] private AudioClip[] ballSounds;
+    [SerializeField] AudioClip[] ballSounds;
     
     Vector2 paddleToBallVector;
     bool hasStarted;
