@@ -138,7 +138,7 @@ PrefabInstance:
     - target: {fileID: 8418180520184262935, guid: 13d1286544ad171479ba2f0cff9cb6ba,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.6
+      value: 8.16
       objectReference: {fileID: 0}
     - target: {fileID: 8418180520184262935, guid: 13d1286544ad171479ba2f0cff9cb6ba,
         type: 3}
@@ -590,7 +590,7 @@ PrefabInstance:
     - target: {fileID: 8418180520184262935, guid: 13d1286544ad171479ba2f0cff9cb6ba,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.6
+      value: 8.31
       objectReference: {fileID: 0}
     - target: {fileID: 8418180520184262935, guid: 13d1286544ad171479ba2f0cff9cb6ba,
         type: 3}
@@ -665,7 +665,7 @@ PrefabInstance:
     - target: {fileID: 8418180520184262935, guid: 77dbf558936f0dd42a50b4ca47336e9e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.62
+      value: 4.43
       objectReference: {fileID: 0}
     - target: {fileID: 8418180520184262935, guid: 77dbf558936f0dd42a50b4ca47336e9e,
         type: 3}
@@ -727,6 +727,11 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.8
       objectReference: {fileID: 0}
+    - target: {fileID: 8418180520184262933, guid: 77dbf558936f0dd42a50b4ca47336e9e,
+        type: 3}
+      propertyPath: maxHits
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77dbf558936f0dd42a50b4ca47336e9e, type: 3}
 --- !u!4 &1107847845 stripped
@@ -755,7 +760,7 @@ PrefabInstance:
     - target: {fileID: 8418180520184262935, guid: 13d1286544ad171479ba2f0cff9cb6ba,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.6
+      value: 8.2
       objectReference: {fileID: 0}
     - target: {fileID: 8418180520184262935, guid: 13d1286544ad171479ba2f0cff9cb6ba,
         type: 3}
